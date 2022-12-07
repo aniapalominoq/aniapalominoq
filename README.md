@@ -11,6 +11,18 @@
 - 👨‍💻 All of my projects are available at [https://github.com/melaniapalominoq](https://github.com/melaniapalominoq)
 
 - 📫 How to reach me **melaniapalominoq@gmail.com**
+- 
+
+## <img src="https://raw.githubusercontent.com/melaniapalominoq/melaniapalominoq/main/wave.gif" width="30"> About Me: 
+
+<span align="left">
+ 
+```
+Besides programming
+```
+</span>
+  
+
 
 
 
