@@ -6,7 +6,11 @@
 </h1>
 
 
+- 🌱 I’m in constant learning 
 
+- 👨‍💻 All of my projects are available at [https://github.com/melaniapalominoq](https://github.com/melaniapalominoq)
+
+- 📫 How to reach me **melaniapalominoq@gmail.com**
 
 
 
