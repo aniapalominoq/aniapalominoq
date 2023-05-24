@@ -25,8 +25,11 @@
 
 <br>
 
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px">Algunos lenguajes y herramientas
+
+<br><br>
 
 <p>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
@@ -48,14 +51,16 @@
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>	
 	
 </p>
+<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px"> Mi estado de Github
-	
+
+<br><br>
 | ![](https://github-readme-stats.vercel.app/api?username=aniapalominoq&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniapalominoq&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/aniapalominoq/github-readme-stats) |
 | --- | --- |
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aniapalominoq)](https://git.io/streak-stats)|  ![](https://readme-jokes.vercel.app/api) |
 
-
+<br><br>
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Para obtener más información, consulte o conécteme a través de 
 
 <p align="center">
