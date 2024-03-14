@@ -18,7 +18,6 @@
 - 👯 Busco colaborar en proyectos front-end, back-end
 - Graduada en Ingeniería Informática.
 - Egresada del bootcamp [Laboratoria](https://www.laboratoria.la/), donde adquirí habilidades en metodologías ágiles y trabajo en equipo.
-- 🌱 Actualmente estoy aprendiendo Python, Django,sqlite
 - Futura desarrolladora Fullstack.
 - ⚡ Dato curioso: me gusta la filosofía y la astronomía 
 - :boom: ¡Te invito a visitar mi portafolio! [en construccion](https://#/)
