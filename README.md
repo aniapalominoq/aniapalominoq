@@ -1,6 +1,6 @@
 <h1 align="center"><b> < Melania Palomino /></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrolladora%20Web;Front%20End-developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=#E43972&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrolladora%20Web;Front%20End-developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=d214e2&vCenter=true&size=45%22"></a>
 </p>
 
 
